@@ -1,0 +1,42 @@
+body {
+    font-size: 20px;
+    color: green;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+p.inDiv {
+    text-align: center;
+    color: black;
+
+}
+
+.blue {
+    color:blue;
+
+}
+
+.red {
+    color:red;
+}
+
+.box1 {
+    height: 100px;
+    width: 100px;
+    padding: 1em;
+    margin: 10px;
+    border: 10px solid black;
+    background-color: yellow;
+}
+
+.box2 {
+    height: 100px;
+    width: 100px;
+    padding: 1em;
+    margin: 10px;
+    border: 10px solid black;
+    background-color: gray;
+}
